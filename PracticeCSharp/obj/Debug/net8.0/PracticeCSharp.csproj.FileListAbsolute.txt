@@ -1,0 +1,18 @@
+/home/sandhya/Documents/C# Basic programs/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhya/Documents/C# Basic programs/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.AssemblyInfoInputs.cache
+/home/sandhya/Documents/C# Basic programs/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.AssemblyInfo.cs
+/home/sandhya/Documents/C# Basic programs/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.csproj.CoreCompileInputs.cache
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.AssemblyInfoInputs.cache
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.AssemblyInfo.cs
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.csproj.CoreCompileInputs.cache
+/home/sandhya/Documents/PracticeCSharp/bin/Debug/net8.0/PracticeCSharp
+/home/sandhya/Documents/PracticeCSharp/bin/Debug/net8.0/PracticeCSharp.deps.json
+/home/sandhya/Documents/PracticeCSharp/bin/Debug/net8.0/PracticeCSharp.runtimeconfig.json
+/home/sandhya/Documents/PracticeCSharp/bin/Debug/net8.0/PracticeCSharp.dll
+/home/sandhya/Documents/PracticeCSharp/bin/Debug/net8.0/PracticeCSharp.pdb
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.dll
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/refint/PracticeCSharp.dll
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.pdb
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/PracticeCSharp.genruntimeconfig.cache
+/home/sandhya/Documents/PracticeCSharp/obj/Debug/net8.0/ref/PracticeCSharp.dll
